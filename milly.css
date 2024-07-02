@@ -68,6 +68,7 @@ button{
 }
 button:hover{
     background: #000;
+    color: white;
 }
 .fastfood:hover{
     transform: scale(1.2);
